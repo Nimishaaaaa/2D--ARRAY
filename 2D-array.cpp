@@ -1,4 +1,5 @@
-#i <iostream>
+//Write a program to search an element in a 2-D array using linear search
+#include <iostream>
 using namespace std;
 
 int main(){
